@@ -1,0 +1,5 @@
+[
+    {"patient": "Алексей", "weight": 150, "price_per_kg": 15000},
+    {"patient": "Мария", "weight": 200, "price_per_kg": 20000},
+    {"patient": "Иван", "weight": 100, "price_per_kg": 10000}
+]
